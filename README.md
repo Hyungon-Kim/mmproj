@@ -1,9 +1,9 @@
 # mmproj
 
 
-##MultiMedia 낭종호교수님 Project
+==MultiMedia 낭종호교수님 Project
 
-###FaceNet의 Fine-Tuning을 통한 얼굴 검출 웹 서비스
+===FaceNet의 Fine-Tuning을 통한 얼굴 검출 웹 서비스
 
 
 #Python Module
